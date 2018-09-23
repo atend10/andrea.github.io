@@ -1,0 +1,31 @@
+.row{   
+
+    background-color:#8abada;
+    color:white;
+    font-size:20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around ;
+}
+
+.headshot{
+    width:20%;
+   
+}
+.mid{
+    background-color:#e9d0ea;
+    color:black;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Lobster', cursive;
+}
+.aboutme{
+    border:2px solid black; 
+}
+
+.headshot{
+    border-radius: 50%;
+}
+}
